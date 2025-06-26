@@ -1,2 +1,83 @@
-# Website-khusus-nayla
-Aku cinta banget sama kamu Nayla sayang 
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Untuk Nayla, Cahaya Hatiku ❤️</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Google Fonts - Inter -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f0fdf4; /* Light mint green background */
+        }
+    </style>
+</head>
+<body class="flex flex-col min-h-screen text-gray-800">
+    <!-- Header Section -->
+    <header class="bg-emerald-700 text-white p-6 shadow-lg rounded-b-xl">
+        <div class="container mx-auto text-center">
+            <h1 class="text-4xl font-extrabold mb-2 leading-tight">Untuk Nayla, Bidadariku Dunia Akhirat!</h1>
+            <p class="text-xl font-light">Setiap langkah bersamamu adalah anugerah dari-Nya.</p>
+        </div>
+    </header>
+
+    <!-- Main Content Section -->
+    <main class="flex-grow container mx-auto p-6 md:p-10">
+        <!-- Hero Section -->
+        <section class="bg-white p-8 rounded-xl shadow-xl mb-8 text-center border-4 border-emerald-300">
+            <h2 class="text-3xl font-semibold text-emerald-600 mb-4">Nayla, Anugerah Terindah dari Ilahi</h2>
+            <p class="text-lg leading-relaxed mb-6">
+                Sayang, website ini adalah ungkapan syukurku kepada Allah atas hadirmu dalam hidupku.
+                Engkau adalah amanah terindah yang Dia titipkan. Bersamamu, kuingin merajut cinta hingga ke Jannah-Nya.
+            </p>
+            <p class="text-lg font-medium text-gray-700">Semoga cinta kita selalu dalam ridha Allah SWT.</p>
+        </section>
+
+        <!-- Reasons I Love You Section -->
+        <section class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
+            <div class="bg-white p-6 rounded-xl shadow-md border border-emerald-100">
+                <h3 class="text-2xl font-semibold text-emerald-500 mb-3 flex items-center"><span class="mr-2">✨</span>Sifat-sifatmu yang Kucintai Karena Allah</h3>
+                <ul class="list-disc list-inside text-gray-700">
+                    <li class="mb-2">Ketulusan hatimu dalam beribadah dan berakhlak mulia.</li>
+                    <li class="mb-2">Kesabaranmu dalam menghadapi cobaan dan ujian hidup.</li>
+                    <li class="mb-2">Kebijaksanaanmu dalam setiap perkataan dan perbuatan.</li>
+                    <li class="mb-2">Senyummu yang selalu membawa kedamaian hati dan ketenangan.</li>
+                    <li class="mb-2">Dukunganmu dalam kebaikan dan ketaatan kepada-Nya.</li>
+                    <li class="mb-2">Dan segala hal yang membuatmu istimewa di mata-Nya dan di mataku.</li>
+                </ul>
+            </div>
+            <div class="bg-white p-6 rounded-xl shadow-md border border-emerald-100">
+                <h3 class="text-2xl font-semibold text-emerald-500 mb-3 flex items-center"><span class="mr-2">💖</span>Momen Indah dalam Lindungan-Nya</h3>
+                <p class="text-gray-700 mb-4">
+                    Setiap momen yang kita lalui bersama adalah kenangan berharga, semoga menjadi saksi di akhirat kelak.
+                    Aku tak sabar untuk menciptakan lebih banyak lagi kenangan indah yang diridhai Allah bersamamu.
+                </p>
+                <ul class="list-disc list-inside text-gray-700">
+                    <li class="mb-2">Saat kita bersama saling mengingatkan dalam kebaikan dan kebenaran.</li>
+                    <li class="mb-2">Ketika kita berbagi ilmu agama dan memperdalam iman.</li>
+                    <li class="mb-2">Perjalanan menuju majelis ilmu atau berbagi kebaikan yang tak terlupakan.</li>
+                    <li class="mb-2">Doa-doa tulus yang kita panjatkan bersama di setiap sujud.</li>
+                </ul>
+            </div>
+        </section>
+
+        <!-- Message from You Section -->
+        <section class="bg-emerald-100 p-8 rounded-xl shadow-lg text-center border-4 border-emerald-300">
+            <h2 class="text-3xl font-semibold text-emerald-600 mb-4">Pesan Tulus dari Hati</h2>
+            <p class="text-lg leading-relaxed text-gray-700 mb-6">
+                Jazakillahu khairan katsiran, Sayang. Terima kasih sudah menjadi bagian terpenting dalam perjalanan hidupku.
+                Aku sangat beruntung memilikimu. Semoga Allah senantiasa memberkahi dan menguatkan cinta kita.
+            </p>
+            <p class="text-xl font-bold text-emerald-700">- Dari Reno, yang mencintaimu karena Allah SWT ❤️</p>
+        </section>
+    </main>
+
+    <!-- Footer Section -->
+    <footer class="bg-emerald-700 text-white p-4 text-center rounded-t-xl mt-8">
+        <p class="text-sm">&copy; 2025 Dibuat dengan doa dan cinta untukmu, Sayang.</p>
+    </footer>
+</body>
+</html>
